@@ -59,7 +59,7 @@ A personal portfolio showcasing my skills, projects, and achievements.
 ### [Mo-view](https://github.com/UjjwalMishra01/Mo-view)  
 A movie review website combining tech and entertainment.  
 
-### [Multithreaded Web Server](https://github.com/UjjwalMishra01/Multithreaded-Web-Server)  
+### [Multithreaded Web Server](https://github.com/UjjwalMishra01/Webservers)  
 A multi-threaded web server created to tackle multiple connection requests, implementing concurrency control and HTTPS protocol.  
 
 ---

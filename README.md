@@ -6,10 +6,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=This+is+Ujjwal Mishra;+💡+JAVA Development+Machine Learning Geek;+Loves+To+Build+Products+✨;+💪;">   
-</p> 
----
+
 
 ### About Me  
 - 🎨 **Software Engineer in Making**: Crafting solutions to complex problems through code.  

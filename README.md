@@ -1,12 +1,10 @@
 <!-- Your title -->
 <h1 align="center">Hi 👋, I'm Ujjwal Mishra</h1>
-<!-- <h3 align="center">A passionate  from India</h3> -->
-<img align="left" alt ="Coding" width="250" src=https://github.com/user-attachments/assets/366987be-b6e9-463c-9a02-2250eae1ca37>
 
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-
+<div align="center">
+  <img alt="Coding" width="250" src="https://github.com/user-attachments/assets/366987be-b6e9-463c-9a02-2250eae1ca37">
+  <img alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+</div>
 
 ### About Me  
 - 🎨 **Software Engineer in Making**: Crafting solutions to complex problems through code.  
@@ -26,13 +24,10 @@
 
 ## 🔧 Technical Skills  
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)  
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)  
 
 - **Programming**: Python, Java, JavaScript, HTML  
-- **Frameworks**: React, Spring Boot, SpringMVC, RestAPI  
+- **Frameworks**: React, Spring Boot, SpringMVC, RestAPI, TensorFlow  
 - **Tools**: Docker, Git, Postman, VS Code, IntelliJ IDEA  
 - **AI & ML**: Generative AI, Deep Learning, Computer Vision, Natural Language Processing  
 - **Databases**: MySQL, MongoDB  
@@ -66,9 +61,7 @@ A multi-threaded web server created to tackle multiple connection requests, impl
 
 ## 🔔 Let's Connect!  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/ujjwalm01)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)](https://github.com/UjjwalMishra01)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/Ujjwalm101?t=75Q5SA_J0237HPuWoUM9rg&s=09)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/ujjwalm01) [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)](https://github.com/UjjwalMishra01) [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/Ujjwalm101?t=75Q5SA_J0237HPuWoUM9rg&s=09)  
 
 📩 Or drop a mail at: ujjwalmishra523@gmail.com  
 
@@ -78,7 +71,6 @@ A multi-threaded web server created to tackle multiple connection requests, impl
 
 ### GitHub Stats  
 ![Ujjwal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=UjjwalMishra01&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UjjwalMishra01&layout=compact&theme=radical)  
 
 ### Additional Stats  
 - 🗂️ **Repositories**: [View All Repositories](https://github.com/UjjwalMishra01?tab=repositories)  

@@ -1,9 +1,14 @@
-# Hi there! 👋 I'm Ujjwal Mishra  
+<!-- Your title -->
+<h1 align="center">Hi 👋, I'm Ujjwal Mishra</h1>
+<!-- <h3 align="center">A passionate  from India</h3> -->
+<img align="left" alt ="Coding" width="250" src=https://github.com/user-attachments/assets/366987be-b6e9-463c-9a02-2250eae1ca37>
 
-![Profile Image](https://github.com/user-attachments/assets/366987be-b6e9-463c-9a02-2250eae1ca37)  
 
-## Software Developer | Machine Learning Enthusiast | Problem Solver  
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=This+is+Ujjwal Mishra;+💡+JAVA Development+Machine Learning Geek;+Loves+To+Build+Products+✨;+💪;">   
+</p> 
 ---
 
 ### About Me  

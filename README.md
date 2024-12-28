@@ -1,10 +1,8 @@
 <!-- Your title -->
 <h1 align="center">Hi 👋, I'm Ujjwal Mishra</h1>
 
-<div align="center">
   <img alt="Coding" width="250" src="https://github.com/user-attachments/assets/366987be-b6e9-463c-9a02-2250eae1ca37">
   <img alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-</div>
 
 ### About Me  
 - 🎨 **Software Engineer in Making**: Crafting solutions to complex problems through code.  

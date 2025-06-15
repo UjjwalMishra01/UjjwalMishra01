@@ -5,13 +5,15 @@
 
 ### About Me  
 - 🎨 **Software Engineer in Making**: Crafting solutions to complex problems through code.  
-- ✨ Passionate about **Machine Learning**, **Computer Vision**, and **NLP**.  
+- ✨ Passionate about **Machine Learning**, **Computer Vision**, and **JAVA Development**.  
 - 🔍 I enjoy exploring new technologies and staying updated with the latest trends in software development and artificial intelligence.  
 
 ---
 
 ## 🏆 Achievements  
 
+- **Second Runner Up, KraftThink Hackathon, Chandigarh University**  
+- **Secured Innovation Award at Hacktivate, Thapar Institute of Technology**
 - **Secured 4th position at Ideathon2k24, Chandigarh University.**  
 - **Secured 3rd position at ProjectExpo-2024, Chandigarh University.**  
 - **Ranked 5th at Hackfest, IIT (ISM) Dhanbad, Jharkhand**  
@@ -24,9 +26,9 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)  
 
 - **Programming**: Python, Java, JavaScript, HTML  
-- **Frameworks**: React, Spring Boot, SpringMVC, RestAPI, TensorFlow  
-- **Tools**: Docker, Git, Postman, VS Code, IntelliJ IDEA  
-- **AI & ML**: Generative AI, Deep Learning, Computer Vision, Natural Language Processing  
+- **Framework**: Spring Boot, SpringMVC, RestAPI
+- **Tools**: Docker, Git, Postman, Jenkins, VS Code, IntelliJ IDEA 
+- **AI & ML**: Deep Learning, Computer Vision, Natural Language Processing  
 - **Databases**: MySQL, MongoDB  
 
 ---
@@ -37,7 +39,13 @@
 
 ---
 
-## 🌟 Featured Projects  
+## 🌟 Featured Projects 
+
+### [Multithreaded Web Server](https://github.com/UjjwalMishra01/Webservers)  
+A multi-threaded web server created to tackle multiple connection requests, implementing concurrency control and HTTPS protocol.  
+
+### [Mo-view](https://github.com/UjjwalMishra01/Mo-view)  
+A movie review website combining tech and entertainment.  
 
 ### [Computer Vision](https://github.com/UjjwalMishra01/Computer-Vision)  
 Developed and implemented computer vision algorithms to solve image processing and recognition tasks.  
@@ -48,11 +56,6 @@ A financial chatbot leveraging AI to provide investment banking insights.
 ### [Portfolio Website](https://personal-portfolio-website-ymx9.vercel.app/)  
 A personal portfolio showcasing my skills, projects, and achievements.  
 
-### [Mo-view](https://github.com/UjjwalMishra01/Mo-view)  
-A movie review website combining tech and entertainment.  
-
-### [Multithreaded Web Server](https://github.com/UjjwalMishra01/Webservers)  
-A multi-threaded web server created to tackle multiple connection requests, implementing concurrency control and HTTPS protocol.  
 
 ---
 
